@@ -1,4 +1,3 @@
 My name is Bradley
 I am at a software carpentry workshop
 Anti vi 4lyf
-I <3 r
